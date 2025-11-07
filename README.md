@@ -1,8 +1,9 @@
 <!-- # 1. HEADER -->
 
 
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api%3Ftype%3Dwave%26color%3Dgradient%26height%3D220%26text%3DLucian-Adrian%2520Gavril%26animation%3DfadeIn%26fontSize%3D60%26fontAlignY%3D35%26desc%3DSystems%2520Architect%2520%257C%2520AI%2520Engineer%2520%257C%2520Data%2520Scientist%26descAlignY%3D55%26descAlign%3D68" alt="Lucian-Adrian Gavril Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" alt="Hello! Banner"/>
 </p>
 
 <!-- # 2. SOCIAL LINKS -->
