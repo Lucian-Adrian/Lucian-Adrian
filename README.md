@@ -37,6 +37,13 @@ I don't just build what's asked. I analyze the system, understand the user, and 
 🛠️   I'm actively building Synapse, an EdTech management system.
 
 💬   Ask me about: System Architecture, AI Agents, EdTech, or Data-Driven Decisions.
+
+
+🧠 Interests & specialties:
+System Architecture & System Design
+ML Pipelines and intelligent automation
+AI Agents for business workflows
+EdTech products & optimization
 <!-- # 5. TOOLBOX -->
 
 <h3>
