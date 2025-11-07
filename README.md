@@ -81,31 +81,20 @@ My Toolkit
 
 <h3>📊 My GitHub Activity</h3>
 
-<!--
 <p align="center">
-<!-- Stats Card (Fixed URL) ->
-<img height="190em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLucian-Adrian%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Lucian's GitHub Stats"/>
-
-<!-- Top Langs Card (Fixed URL) ->
-
-<img height="190em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLucian-Adrian%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Lucian's Top Languages"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Lucian's GitHub Stats"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucian-Adrian&layout=compact&langs_count=8&theme=dracula" alt="Lucian's Top Languages"/>
 </p>
 
-<!-- Activity Graph (Fixed URL) ->
-
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DLucian-Adrian%26theme%3Dnord%26hide_border%3Dtrue%26line%3D5E81AC%26point%3D88C0D0%26area%3Dtrue%26area_color%3D5E81AC" alt="Lucian's Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucian-Adrian&theme=nord&hide_border=true&line=5E81AC&point=88C0D0&area=true&area_color=5E81AC" alt="Lucian's Contribution Activity Graph"/>
 </p>
 
-<!-- # 7. SNAKE ANIMATION (Fixed URL) ->
-
-<!-- This image will be generated and updated by the GitHub Action in the next file ->
+---
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github.com/Lucian-Adrian/Lucian-Adrian/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="httpsD://raw.githubusercontent.com/Lucian-Adrian/Lucian-Adrian/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
--->
-
 <p align="center">
 <img src="httpsD://https://www.google.com/search?q=github.com/Lucian-Adrian/Lucian-Adrian/blob/output/github-contribution-grid-snake.svg%3Fraw%3Dtrue" alt="Snake animation"/>
 </p>
