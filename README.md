@@ -7,6 +7,10 @@
 
 <!-- # 2. SOCIAL LINKS -->
 
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+
 <p align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/lucian-adrian" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
