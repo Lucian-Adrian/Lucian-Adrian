@@ -24,7 +24,7 @@
 <h2>I am a Builder.</h2>
 </div>
 
-I am a software engineer and systems architect. My passion is not just writing code; it's crafting elegant, high-value, end-to-end systems that are superior by design. 
+I am a software engineer and systems architect. My passion is not writing code, it's crafting elegant, high-value, end-to-end systems that are superior by design. 
 
 This philosophy drives my work as I thrive on transforming complex challenges into tangible solutions.
 
