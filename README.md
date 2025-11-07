@@ -10,7 +10,7 @@
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
+<!--
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/lucian-adrian" target="_blank">
@@ -90,25 +90,27 @@ My Toolkit
 
 <h3>📊 My GitHub Activity</h3>
 
+<!--
 <p align="center">
-<!-- Stats Card (Fixed URL) -->
+<!-- Stats Card (Fixed URL) ->
 <img height="190em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLucian-Adrian%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Lucian's GitHub Stats"/>
 
-<!-- Top Langs Card (Fixed URL) -->
+<!-- Top Langs Card (Fixed URL) ->
 
 <img height="190em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DLucian-Adrian%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula" alt="Lucian's Top Languages"/>
 </p>
 
-<!-- Activity Graph (Fixed URL) -->
+<!-- Activity Graph (Fixed URL) ->
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DLucian-Adrian%26theme%3Dnord%26hide_border%3Dtrue%26line%3D5E81AC%26point%3D88C0D0%26area%3Dtrue%26area_color%3D5E81AC" alt="Lucian's Contribution Activity Graph"/>
 </p>
 
-<!-- # 7. SNAKE ANIMATION (Fixed URL) -->
+<!-- # 7. SNAKE ANIMATION (Fixed URL) ->
 
-<!-- This image will be generated and updated by the GitHub Action in the next file -->
+<!-- This image will be generated and updated by the GitHub Action in the next file ->
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://github.com/Lucian-Adrian/Lucian-Adrian/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+-->
