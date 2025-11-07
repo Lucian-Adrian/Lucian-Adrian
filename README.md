@@ -7,9 +7,6 @@
 </p>
 
 <!-- # 2. SOCIAL LINKS -->
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 <!--
 
 <p align="center">
@@ -94,7 +91,4 @@ My Toolkit
 
 <p align="center">
   <img src="httpsD://raw.githubusercontent.com/Lucian-Adrian/Lucian-Adrian/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-<p align="center">
-<img src="httpsD://https://www.google.com/search?q=github.com/Lucian-Adrian/Lucian-Adrian/blob/output/github-contribution-grid-snake.svg%3Fraw%3Dtrue" alt="Snake animation"/>
 </p>
