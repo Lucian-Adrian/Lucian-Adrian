@@ -24,13 +24,18 @@
 <h2>I am a Builder.</h2>
 </div>
 
-I am a software engineer and systems architect. My passion is not writing code, it's crafting elegant, high-value, end-to-end systems that are superior by design. 
+I am a software engineer and systems architect. 
+My passion is not writing code, it's crafting elegant, high-value, end-to-end systems that are superior by design. 
 This philosophy drives my work as I thrive on transforming complex challenges into tangible solutions.
 I don't just build what's asked. I analyze the system, understand the user, and architect the right solution. 
 <!-- # 4. CURRENT FOCUS -->
+
 🔭   I'm currently focused on transition from Fullstack Development to Data Science.
+
 🌱   I'm mastering AI Agents (RAG) and Machine Learning Architecture. 
+
 🛠️   I'm actively building Synapse, an EdTech management system.
+
 💬   Ask me about: System Architecture, AI Agents, EdTech, or Data-Driven Decisions.
 <!-- # 5. TOOLBOX -->
 
