@@ -1,14 +1,11 @@
 <!-- # 1. HEADER -->
 
-<!-- This is the capsule-render banner you requested. I have fixed the broken URL. -->
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwave%26color%3Dgradient%26height%3D220%26text%3DLucian-Adrian%2520Gavril%26animation%3DfadeIn%26fontSize%3D60%26fontAlignY%3D35%26desc%3DSystems%2520Architect%2520%257C%2520AI%2520Engineer%2520%257C%2520Data%2520Scientist%26descAlignY%3D55%26descAlign%3D68" alt="Lucian-Adrian Gavril Banner"/>
 </p>
 
 <!-- # 2. SOCIAL LINKS -->
-
-<!-- I have fixed the broken URLs for these badges. -->
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/lucian-adrian" target="_blank">
@@ -19,7 +16,7 @@
 </a>
 </p>
 
-<!-- # 3. MANIFESTO (Your "Architect" Frame) -->
+<!-- # 3. MANIFESTO -->
 
 <div align="center">
 <h2>I am a Builder.</h2>
@@ -29,7 +26,7 @@ I am a software engineer and systems architect. My passion is not just writing c
 
 This philosophy drives my work. Whether it's winning an AI bootcamp by building a functional prototype in a 3-day sprint [cite: cv05.md] or leading a team to 1st Place at Techstars [cite: cv05.md], I thrive on transforming complex challenges into tangible solutions.
 
-I don't just build what's asked. I analyze the system, understand the user, and architect the right solution. [cite: cv05.md]
+I don't just build what's asked. I analyze the system, understand the user, and architect the right solution. 
 
 <!-- # 4. CURRENT FOCUS -->
 
@@ -37,13 +34,12 @@ I don't just build what's asked. I analyze the system, understand the user, and 
 
 🌱   I'm mastering AI Agents (RAG) and Machine Learning Architecture. [cite: cv05.md]
 
-🛠️   I'm actively building Synapse (an EdTech management system) and the housing-price-prediction project. [cite: Gemini-TODOLIST V2.md, housing-price-prediction Public]
+🛠️   I'm actively building Synapse (an EdTech management system) and the housing-price-prediction project.
 
 💬   Ask me about: System Architecture, AI Agents, EdTech, or Data-Driven Decisions.
 
-<!-- # 5. TOOLBOX (Not collapsible, as requested) -->
+<!-- # 5. TOOLBOX -->
 
-<!-- This section is built from your new list of technologies. -->
 
 <h3>
 <img src="https://raw.githubusercontent.com/MarieLynneBlock/MarieLynneBlock/master/gifs/toolkit.gif" width="60" align="middle">
