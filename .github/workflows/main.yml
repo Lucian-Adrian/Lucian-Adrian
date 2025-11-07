@@ -1,34 +1,29 @@
-# Numele workflow-ului
 name: Generate GitHub Snake
 
-# Când să ruleze:
 on:
   schedule:
-    # Rulează la fiecare 12 ore
     - cron: "0 */12 * * *"
-  
-  # Îți permite să-l rulezi și manual din tab-ul Actions
   workflow_dispatch:
 
-#
-# === ADAUGĂ ACEST BLOC ===
-# Acesta este fix-ul pentru eroarea 403 Permission Denied.
-# Oferă acțiunii permisiunea de a scrie în repository.
 permissions:
   contents: write
-# === SFÂRȘIT BLOC NOU ===
-#
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
         with:
           github_user_name: Lucian-Adrian
-          svg_out_path: dist/github-contribution-grid-snake.svg
+
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif
+            dist/github-snake-dark.gif?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
