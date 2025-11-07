@@ -1,15 +1,23 @@
-# This file generates the snake animation at the bottom of the README
-# It must be placed in: .github/workflows/main.yml
-
+# Numele workflow-ului
 name: Generate GitHub Snake
 
+# Când să ruleze:
 on:
   schedule:
-    # Runs every 12 hours
+    # Rulează la fiecare 12 ore
     - cron: "0 */12 * * *"
   
-  # Allows you to run it manually from the Actions tab
+  # Îți permite să-l rulezi și manual din tab-ul Actions
   workflow_dispatch:
+
+#
+# === ADAUGĂ ACEST BLOC ===
+# Acesta este fix-ul pentru eroarea 403 Permission Denied.
+# Oferă acțiunii permisiunea de a scrie în repository.
+permissions:
+  contents: write
+# === SFÂRȘIT BLOC NOU ===
+#
 
 jobs:
   build:
@@ -19,16 +27,11 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          # Your GitHub username
           github_user_name: Lucian-Adrian
-          
-          # The path where the SVG will be saved
-          # The README is already configured to look for this exact path
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          # This action commits the new SVG to the 'output' branch
           target_branch: output
           build_dir: dist
         env:
