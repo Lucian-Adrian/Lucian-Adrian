@@ -30,11 +30,11 @@ I don't just build what's asked. I analyze the system, understand the user, and 
 
 <!-- # 4. CURRENT FOCUS -->
 
-🔭   I'm currently focused on the intersection of Fullstack Development and Data Science.
+🔭   I'm currently focused on transition from Fullstack Development to Data Science.
 
-🌱   I'm mastering AI Agents (RAG) and Machine Learning Architecture. [cite: cv05.md]
+🌱   I'm mastering AI Agents (RAG) and Machine Learning Architecture. 
 
-🛠️   I'm actively building Synapse (an EdTech management system) and the housing-price-prediction project.
+🛠️   I'm actively building Synapse, an EdTech management system.
 
 💬   Ask me about: System Architecture, AI Agents, EdTech, or Data-Driven Decisions.
 
