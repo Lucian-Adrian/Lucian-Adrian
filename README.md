@@ -105,3 +105,15 @@ My Toolkit
     src="https://raw.githubusercontent.com/Lucian-Adrian/Lucian-Adrian/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+![snake gif](https://raw.githubusercontent.com/Lucian-Adrian/Lucian-Adrian/output/github-snake.gif)
+test1
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucian-Adrian/Lucian-Adrian/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucian-Adrian/Lucian-Adrian/output/github-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/Lucian-Adrian/Lucian-Adrian/output/github-snake.svg" />
+</picture>
+
