@@ -20,10 +20,10 @@ jobs:
           github_user_name: Lucian-Adrian
 
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.gif
-            dist/github-snake-dark.gif?palette=github-dark
+              github-snake.svg?palette=github
+              github-snake-dark.svg?palette=github-dark
+              github-snake.gif?palette=github
+              github-snake-dark.gif?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
