@@ -27,9 +27,9 @@
 <h2>I am a Builder.</h2>
 </div>
 
-I am a software engineer and systems architect. My passion is not just writing code; it's crafting elegant, high-value, end-to-end systems that are superior by design. [cite: cv05.md]
+I am a software engineer and systems architect. My passion is not just writing code; it's crafting elegant, high-value, end-to-end systems that are superior by design. 
 
-This philosophy drives my work. Whether it's winning an AI bootcamp by building a functional prototype in a 3-day sprint [cite: cv05.md] or leading a team to 1st Place at Techstars [cite: cv05.md], I thrive on transforming complex challenges into tangible solutions.
+This philosophy drives my work as I thrive on transforming complex challenges into tangible solutions.
 
 I don't just build what's asked. I analyze the system, understand the user, and architect the right solution. 
 
@@ -52,7 +52,7 @@ My Toolkit
 </h3>
 
 <p align="center">
-<!-- 💻 Languages & Core -->
+<!-- Languages & Core -->
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -61,7 +61,7 @@ My Toolkit
 
 
 
-<!-- 🌐 Full-Stack -->
+<!-- Full-Stack -->
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite" alt="Next.js"/>
@@ -71,14 +71,14 @@ My Toolkit
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Sass-CC6699%3Fstyle%3Dfor-the-badge%26logo%3Dsass%26logoColor%3Dwhite" alt="Sass"/>
 
-<!-- 🛢 Data & API -->
+<!-- Data & API -->
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" alt="Postman"/>
 
-<!-- 🔧 Tools & Design -->
+<!-- Tools & Design -->
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git"/>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" alt="VS Code"/>
@@ -86,7 +86,6 @@ My Toolkit
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Google_Colab-F9AB00%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-colab%26logoColor%3Dblack" alt="Google Colab"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
-
 <!-- # 6. GITHUB STATS & ACTIVITY -->
 
 <h3>📊 My GitHub Activity</h3>
