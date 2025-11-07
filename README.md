@@ -114,3 +114,7 @@ My Toolkit
 <img src="https://www.google.com/search?q=https://github.com/Lucian-Adrian/Lucian-Adrian/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 -->
+
+<p align="center">
+<img src="httpsD://https://www.google.com/search?q=github.com/Lucian-Adrian/Lucian-Adrian/blob/output/github-contribution-grid-snake.svg%3Fraw%3Dtrue" alt="Snake animation"/>
+</p>
