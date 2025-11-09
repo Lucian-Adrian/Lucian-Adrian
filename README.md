@@ -30,7 +30,7 @@ This philosophy drives my work as I thrive on transforming complex challenges in
 I don't just build what's asked. I analyze the system, understand the user, and architect the right solution. 
 <!-- # 4. CURRENT FOCUS -->
 
-🔭   I'm currently focused on transition from Fullstack Development to Data Science.
+🔭   I'm currently focused on Data Science.
 
 🌱   I'm mastering AI Agents (RAG) and Machine Learning Architecture. 
 
