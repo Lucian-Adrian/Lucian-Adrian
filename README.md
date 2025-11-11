@@ -81,8 +81,8 @@ My Toolkit
 <h3>📊 My GitHub Activity</h3>
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Lucian's GitHub Stats"/>
-  
+  ![Lucian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucian-Adrian&layout=compact&langs_count=8&theme=dracula" alt="Lucian's Top Languages"/>
 </p>
 
