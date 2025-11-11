@@ -81,7 +81,7 @@ My Toolkit
 <h3>📊 My GitHub Activity</h3>
 
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucian-Adrian&show_icons=true&locale=en&layout=compact" alt="alexandrurudoi" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&show_icons=true&locale=en" alt="Lucian" />
   
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucian-Adrian&layout=compact&langs_count=8&theme=dracula" alt="Lucian's Top Languages"/>
 </p>
