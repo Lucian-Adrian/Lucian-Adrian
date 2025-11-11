@@ -87,7 +87,7 @@ My Toolkit
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucian-Adrian&theme=dracula&hide_border=true&line=5E81AC&point=88C0D0&area=true&area_color=5E81AC" alt="Lucian's Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucian-Adrian&theme=dracula&hide_border=true&line=5E81AC&area=true" alt="Lucian's Contribution Activity Graph"/>
 </p>
 
 ---
