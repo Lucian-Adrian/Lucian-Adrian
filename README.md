@@ -81,13 +81,13 @@ My Toolkit
 <h3>📊 My GitHub Activity</h3>
 
 <p align="center">
-  ![Lucian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Lucian's GitHub Stats"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucian-Adrian&layout=compact&langs_count=8&theme=dracula" alt="Lucian's Top Languages"/>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucian-Adrian&theme=nord&hide_border=true&line=5E81AC&point=88C0D0&area=true&area_color=5E81AC" alt="Lucian's Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucian-Adrian&theme=dracula&hide_border=true&line=5E81AC&point=88C0D0&area=true&area_color=5E81AC" alt="Lucian's Contribution Activity Graph"/>
 </p>
 
 ---
