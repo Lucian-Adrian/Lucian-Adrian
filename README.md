@@ -6,7 +6,7 @@
 
 I design and ship end-to-end systems: relational schemas, API architecture, and agent orchestration first  then AI-accelerated implementation, reviewed and tested to production standards.
 
-**Domains I've shipped in:** government (Ministry of Justice of Moldova), enterprise e-learning (Orange), EdTech (my own business  74 students prepped for the BAC national exam, 71 hit their target grade), and real-time sales tooling.
+**Domains I've shipped in:** government (Ministry of Justice of Moldova), enterprise e-learning (Orange), EdTech (74 students prepped for the national exam), and real-time sales tooling.
 
 ## Selected work
 
