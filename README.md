@@ -4,7 +4,7 @@
 
 # Lucian-Adrian Gavril
 
-I turn ambitious ideas and complex challenges into products and platforms. My work connects product strategy, software architecture, AI and team leadership, with ownership from the first decision through implementation, release and iteration.
+I build ventures, AI products and software platforms. I bring commercial judgment, product strategy and hands-on engineering leadership to the decisions that shape a product: the opportunity to pursue, the experience to deliver, the architecture to build and the team to bring it to market.
 
 I lead product and technology work at TeamCreator and build across education, shared housing, business intelligence, AI assistants and developer tools. I shape the product, design the systems behind it and coordinate delivery across data, applications, integrations and infrastructure.
 
