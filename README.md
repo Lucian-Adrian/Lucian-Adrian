@@ -1,38 +1,47 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header" alt="Hello banner" />
-</p>
-
 # Lucian-Adrian Gavril
 
-I build ventures, AI products and software platforms. I bring commercial judgment, product strategy and hands-on engineering leadership to the decisions that shape a product: the opportunity to pursue, the experience to deliver, the architecture to build and the team to bring it to market.
+**AI engineering · EdTech · Product development**
 
-I lead product and technology work at TeamCreator and build across education, shared housing, business intelligence, AI assistants and developer tools. I shape the product, design the systems behind it and coordinate delivery across data, applications, integrations and infrastructure.
+I'm Lucian, a founder, product builder and AI engineer from Moldova. I co-founded TeamCreator, teach mathematics, and work across product strategy, software architecture and delivery.
 
-Selected results include a multilingual campaign whose conversion increased from 5% to 14%, business-intelligence tools spanning 1.81 million public-data entities, and five fintech MVPs delivered by five teams I mentored in two days.
+I like taking an idea far enough that someone can actually use it, then improving it quickly. That means talking to users, making product and architecture decisions, writing code, and bringing the right people together.
 
-I am building Domi, a shared-housing product for students. It lets someone begin with the people or the home, then carry preferences through group formation, home comparisons, proposed costs and viewing requests. Its public demo uses fictional examples.
+## Education is a big part of my work
 
-## Selected public work
+I've taught around **480 learners**. In one baccalaureate cohort I taught, **93 of 98 passed**.
 
-| Project | What it enables |
-| --- | --- |
-| [Domi](https://trydomi.vercel.app) | A student shared-housing journey from people-first or home-first discovery through group decisions, proposed room and cost sharing, and viewing requests. Public demo with fictional examples. |
-| [Isomorph](https://github.com/Lucian-Adrian/isomorph) | Architecture models edited as text and diagrams, with a formal language, semantic checks and bidirectional editing. |
-| [DriveAdmin, Globant practice](https://github.com/Lucian-Adrian/globant-practice-2025) | A driving-school CRM connecting customers, appointments, imports and operational rules, delivered with a five-person team. |
-| [MTraffic](https://github.com/Lucian-Adrian/mtraffic) | RFID-based traffic coordination, connecting an urban mobility problem to system design and a working prototype. |
-| [Interactive Schedule](https://github.com/Lucian-Adrian/interactive-schedule) | Scheduling with easy sharing, making organized information usable by other people. |
+That classroom experience shapes my EdTech work: how to explain a difficult idea, give useful feedback, build practice that reveals gaps, and keep a learner moving. I've built across the wider education business too, from enrollment, scheduling and payments to AI-assisted course creation, assessment and feedback to the teacher.
 
-## How I work
+## AI, harnesses and fast iteration
 
-- Start with the customer or operating problem and define the result worth delivering.
-- Shape the product, shared data model and architecture together.
-- Build reliable workflows with APIs, validation, access control, queues and retries where they help.
-- Make AI useful inside the workflow, with clear inputs, reviewable outputs and ownership of the next action.
-- Mentor teams and connect technical choices to product priorities.
+I build custom AI workflows and agent harnesses for research, coding and product delivery. I work on the parts that make sustained agent work useful: project context, task decomposition, specialist agents, tool access, continuation notes and handoffs.
 
-Python · TypeScript · React · Next.js · FastAPI · Django REST · PostgreSQL · SQLite · Docker · Linux
+I also build AI into the product itself: voice conversations, knowledge retrieval, document processing and learning tools. Model choice, prompts, latency, interruptions and the next action all affect the experience.
 
-<h3>My Toolkit</h3>
+My preferred rhythm is a short build-feedback loop. Get a useful version running, see where people get stuck, and improve it. A multilingual voice workflow went from its first version in **one day** to a campaign whose conversion rose from **5% to 14%** across iterations.
+
+## Results and recognition
+
+- **5% → 14% campaign conversion** across iterations of a Romanian/Russian voice and CRM workflow covering **1,010 contacts** and **761 answered calls**.
+- **~480 learners supported**, with **93 of 98 passing** in one baccalaureate cohort I taught.
+- **Five fintech MVPs in two days**, built and deployed by five FinStart teams I mentored.
+- **Five-person engineering team coordinated** during Globant practice, plus end-to-end AI chatbot delivery for **three businesses** through Smart Agents.
+- **First place at Techstars Startup Weekend Chișinău**, as team lead and pitcher.
+- **Third place at ICEBERG Bootcamp** with an integrated education-center platform spanning LMS, CRM and ERP.
+- **Aision Tech special prize at the GovTech Hackathon**, as technical lead on the team's crisis-reporting product.
+- **An 8,000 MDL Demo Day prize for the LearnZy team I mentored** at Startup School.
+- **Business-intelligence tools spanning 1.81 million public-data entities**, plus procurement search across **148,514 notices**.
+- **Co-authored a published paper on notification design, cognitive biases and digital wellbeing** at UTM's 2025 Technical-Scientific Conference.
+
+## Working together
+
+I'm interested in ambitious AI and education products, product and technology leadership, and software that makes a business work better.
+
+Tell me what you want to build, who it is for, and where you are now.
+
+[Email me](mailto:lucian@teamcreator.ai) · [LinkedIn](https://www.linkedin.com/in/lucian-adrian/) · [TeamCreator](https://teamcreator.ai)
+
+<h3>Tools I use</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -59,7 +68,7 @@ Python · TypeScript · React · Next.js · FastAPI · Django REST · PostgreSQL
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="Google Colab" />
 </p>
 
-## GitHub Activity
+## GitHub activity
 
 <p align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Lucian-Adrian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github&custom_title=Lucian%20Adrian%27s%20GitHub%20Stats" alt="GitHub stats" />
