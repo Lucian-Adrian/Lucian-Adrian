@@ -1,43 +1,16 @@
 # Lucian-Adrian Gavril
 
-**AI engineering · EdTech · Product development**
+**AI Architect · Solutions Engineer · TeamCreator Co-founder**
 
-I'm Lucian, a founder, product builder and AI engineer from Moldova. I co-founded TeamCreator, teach mathematics, and work across product strategy, software architecture and delivery.
+I work across product strategy, software architecture, and hands-on full-stack and AI engineering. As a TeamCreator co-founder, I help shape ideas into products, connecting user needs and business goals to technical choices and working software.
 
-I like taking an idea far enough that someone can actually use it, then improving it quickly. That means talking to users, making product and architecture decisions, writing code, and bringing the right people together.
+My work spans the decisions before and after the code: what the product should do, how its pieces fit together, and what to build next. I stay close to implementation, from data models and APIs to interfaces, integrations, and AI features. I value clear tradeoffs, useful defaults, and short feedback loops.
 
-## Education is a big part of my work
+I build custom agent harnesses that bring together project context, specialist agents, tool access, and continuity across research, engineering, and product iteration. This keeps sustained work moving without losing important context.
 
-I've taught around **480 learners**. In one baccalaureate cohort I taught, **93 of 98 passed**.
+Education has been part of my work for years. I've taught mathematics to about 480 learners and mentor others. That experience informs my work on education-center systems across LMS, CRM, and ERP, as well as AI-assisted course creation.
 
-That classroom experience shapes my EdTech work: how to explain a difficult idea, give useful feedback, build practice that reveals gaps, and keep a learner moving. I've built across the wider education business too, from enrollment, scheduling and payments to AI-assisted course creation, assessment and feedback to the teacher.
-
-## AI, harnesses and fast iteration
-
-I build custom AI workflows and agent harnesses for research, coding and product delivery. I work on the parts that make sustained agent work useful: project context, task decomposition, specialist agents, tool access, continuation notes and handoffs.
-
-I also build AI into the product itself: voice conversations, knowledge retrieval, document processing and learning tools. Model choice, prompts, latency, interruptions and the next action all affect the experience.
-
-My preferred rhythm is a short build-feedback loop. Get a useful version running, see where people get stuck, and improve it. A multilingual voice workflow went from its first version in **one day** to a campaign whose conversion rose from **5% to 14%** across iterations.
-
-## Results and recognition
-
-- **5% → 14% campaign conversion** across iterations of a Romanian/Russian voice and CRM workflow covering **1,010 contacts** and **761 answered calls**.
-- **~480 learners supported**, with **93 of 98 passing** in one baccalaureate cohort I taught.
-- **Five fintech MVPs in two days**, built and deployed by five FinStart teams I mentored.
-- **Five-person engineering team coordinated** during Globant practice, plus end-to-end AI chatbot delivery for **three businesses** through Smart Agents.
-- **First place at Techstars Startup Weekend Chișinău**, as team lead and pitcher.
-- **Third place at ICEBERG Bootcamp** with an integrated education-center platform spanning LMS, CRM and ERP.
-- **Aision Tech special prize at the GovTech Hackathon**, as technical lead on the team's crisis-reporting product.
-- **An 8,000 MDL Demo Day prize for the LearnZy team I mentored** at Startup School.
-- **Business-intelligence tools spanning 1.81 million public-data entities**, plus procurement search across **148,514 notices**.
-- **Co-authored a published paper on notification design, cognitive biases and digital wellbeing** at UTM's 2025 Technical-Scientific Conference.
-
-## Working together
-
-I'm interested in ambitious AI and education products, product and technology leadership, and software that makes a business work better.
-
-Tell me what you want to build, who it is for, and where you are now.
+I'm interested in ambitious AI products, education technology, and software architecture. If you're building in these areas, tell me what you're working on and what needs to become possible.
 
 [Email me](mailto:lucian@teamcreator.ai) · [LinkedIn](https://www.linkedin.com/in/lucian-adrian/) · [TeamCreator](https://teamcreator.ai)
 
